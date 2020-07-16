@@ -1,0 +1,7 @@
+{
+  "name": "Mobile-ViaCEP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
